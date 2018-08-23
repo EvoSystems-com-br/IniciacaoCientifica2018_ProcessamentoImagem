@@ -1,0 +1,2 @@
+# IniciacaoCientifica2018_ProcessamentoImagem
+Projeto de Iniciação Científica 2018
